@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <p align="center"><a href="https://coding4rtist.github.io/"><img src="https://raw.githubusercontent.com/Coding4rtist/Coding4rtist/main/ANIMATED_AVATAR.gif" alt="avatar" width="150px"/></a></p>
 
 
-- 🔭 I’m currently working on [my Portfolio](https://coding4rtist.github.io/)
+- 🔭 I’m currently working on [my Portfolio](https://coding4rtist.github.io/) and some new games!
 
-- 🌱 I’m currently learning **Gatsby**
+- 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://coding4rtist.github.io/](https://coding4rtist.github.io/)
+- 👨‍💻 All of my projects are available at [https://coding4rtist.github.io/](https://coding4rtist.github.io/) (WIP)
 
 - 😄 Pronouns: he/him
 
