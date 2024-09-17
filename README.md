@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">🎮 Play my games</h3>
 <a href="https://coding4rtist.itch.io/" target="blank"><img align="center" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="itch.io"/></a>
-<a href="https://play.google.com/store/apps/dev?id=6956299742654387516" target="blank"><img align="center" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/></a>
+<!-- <a href="https://play.google.com/store/apps/dev?id=6956299742654387516" target="blank"><img align="center" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/></a> -->
 <!-- <a href="https://coding4rtist.itch.io/" target="blank"><img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></a> -->
 
 <h3 align="left">🛠️ Languages and Tools</h3>
